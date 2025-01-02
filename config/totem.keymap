@@ -70,7 +70,7 @@
         };
 
         tab {
-            bindings = <&sk TAB>;
+            bindings = <&kp TAB>;
             key-positions = <13 12>;
             timeout-ms = <70>;
         };
