@@ -224,7 +224,7 @@
         digits {
             label = "Digits";
             bindings = <
-               &kp GRAVE  &kp DOLLAR             &kp LEFT_PARENTHESIS   &kp RIGHT_PARENTHESIS   &kp PIPE         &kp PLUS   &kp N7               &kp N8          &kp N9        &kp SEMICOLON
+               &kp GRAVE  &kp DOLLAR             &kp LEFT_PARENTHESIS   &kp RIGHT_PARENTHESIS   &kp PIPE         &kp PLUS   &kp N7               &kp N8          &kp N9        &kp UNDER
                &kp PRCNT  &hml LEFT_ALT AT_SIGN  &hml LSHFT LEFT_BRACE  &hml LCTRL RIGHT_BRACE  &kp EXCL         &kp MINUS  &hmr RCTRL NUMBER_4  &hmr RSHIFT N5  &hmr RALT N6  &kp KP_MULTIPLY
 &kp BACKSLASH  &kp CARET  &kp HASH               &kp LEFT_BRACKET       &kp RIGHT_BRACKET       &kp AMPERSAND    &kp EQUAL  &kp N1               &kp N2          &kp N3        &kp SLASH        &kp TILDE
                                                  &trans                 &trans                  &trans           &trans     &kp N0               &trans
